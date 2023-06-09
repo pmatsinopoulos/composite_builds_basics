@@ -1,3 +1,6 @@
 **/*.jar
 .gradle
 **/*.class
+.vscode
+build/
+
